@@ -1,0 +1,37 @@
+Python Programming Introduction
+
+Python is a high-level, interpreted programming language known for its readability and simplicity. It was created by Guido van Rossum and first released in 1991.
+
+Key Features:
+- Easy-to-read syntax
+- Dynamic typing
+- Large standard library
+- Cross-platform support
+- Strong community ecosystem
+
+Python is widely used in:
+- Web development
+- Data engineering
+- Data analysis
+- Artificial intelligence
+- Machine learning
+- Automation and scripting
+
+Example Python Code:
+
+def greet(name):
+    return f"Hello, {name}!"
+
+message = greet("World")
+print(message)
+
+Python supports multiple programming paradigms including procedural, object-oriented, and functional programming.
+
+Popular Python libraries include:
+- NumPy for numerical computing
+- Pandas for data manipulation
+- Matplotlib for visualization
+- Requests for HTTP communication
+- FastAPI for web APIs
+
+Python has become one of the most popular programming languages because it enables rapid development and has a low learning curve.
